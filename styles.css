@@ -118,7 +118,7 @@ header, #content, #middle, #sidebar {
     margin-bottom: 5px;
 }
 
-#pagewrap, header, #content, #middle, #sidebar, footer {
+#pagewrap, header, #content, #middle, #sidebar, .contributing, footer {
     border: solid 1px #ccc;
 }
 
