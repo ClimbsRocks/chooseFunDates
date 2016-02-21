@@ -1,9 +1,30 @@
 $(function() {
 
+  // TODO: memoize the results once we've calculated the results for a given energy level
+
   $('.submit').on('click', function() {
-    var energyLevel = $('#energyLevel').val();
-    console.log('dateIdeas:',dateIdeas);
-    $('#dateName').text('picking a date for energyLevel ' + energyLevel)
+    // grab the string value from the text box and turn it into an int
+    var energyLevel = parseInt($('#energyLevel').val(), 10);
+
+    var relevantDates = [];
+    for(var i = -2; i <=2; i++) {
+
+      var energyLevelToAdd = energyLevel + i;
+      if(energyLevelToAdd >= 0 && energyLevelToAdd <= 10) {
+  
+        datesToAdd = dateIdeas[energyLevel + i];
+        for(var j = 0; j < datesToAdd.length; j++) {
+          relevantDates.push(datesToAdd[j]);
+        }
+      }
+    }
+
+    var randomDateIndex = Math.round(Math.random() * relevantDates.length);
+    var randomDate = relevantDates[randomDateIndex];
+    $('#dateEnergyLevel').text('picking a date for energyLevel ' + energyLevel)
+    $('#dateName').text(randomDate.name);
+    $('#dateDescription').text(randomDate.description);
+
   });
 
   // updates the text box with the value from the slider
