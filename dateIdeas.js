@@ -54,28 +54,52 @@ var dateIdeas = {
 };
 
 /*
-plant crawl
-tell stories from each others' closets
-dress each other up for a night. 
-dress each other up ridiculously for a night adventuring (climbing, perhaps?!)
-plot a road trip on google maps
-plan an ideal vacation on a budget of 10 days and $1500
-massages
-creative cuddles
-Scoot!!
-bike rides
-whale boating
-a single drink at a ridiculously fancy bar
-privately owned public spaces
-sneaking into places you're not technically allowed...
-walk along the waterfront
-wave organ
+format: 
+energyLevel: name
+description
+// separate on newline characters first. then every even one separate on the colon. 
 
-viewpoint at the top of the de young (it's free!)
-blues dancing. dancing of all kinds. hip hop classes.
-
-picnic at the alice marble tennis courts
-ride the cable cars. 
+5: Jungle Crawl
+Crawling around dirty bars sounds much less fun than crawling around the jungle. Let's go exploring the plant and flower stores around, and imagine ourselves in the exotic locales where these plants originally grew. 
+3: Telling stories from each others' closets
+Go through the other person's closet. Make an outfit from their clothes, and then tell a story of the kinds of events you imagine they've worn this outfit to in the past. Claims of superhero-dom do not need to be refuted. 
+6: Dress each other up for a night
+You get to avoid all the decision-making of picking out your outfit for your hot date tonight- because they'll be picking out your outfit for you! Whether you choose to coordinate on both creating sexy/silly/creative outfits, or just go it alone and surprise them, is up to you. 
+7: Dress each other up ridiculously for a night of adventuring
+Let's face it- wearing ridiculous outfits is fun. But oftentimes we lack imagination or guts to wear the best outfits lurking in our closets. So have your date pick out an attention-grabbing outfit for you! This is best done on nights when there is an adventure planned (rock climbing comes easily to mind).
+3: Plot a road trip on google maps
+Travel the country without leaving the cuddly blanket the two of us share. Each of us gets to plot a road trip. The parameters are up to you- whether this is a weekend road trip, a 3 week blitz, or a 3-year extravaganza!
+4: Plan a vacation on a budget of 10 days and $1500
+Don't ask where the 10 days and $1500 came from. Maybe I finally figured out alchemy. Or time travel? Either way, you needn't bother with such trivial details- time to start planning what you would do within such constraints!
+4: Massages
+Simple: push as many of your body parts (fingers, thumbs, elbows, knees, feet, head, glutes, tail, etc.) into as many of their body parts as possible. I'll be yelping in pain the whole time because my body's tight. This is romantic, right?!
+2: Creative Cuddles
+Spooning's a great position to cuddle in. But so is the mellow dragon, and the fierce chipmunk. Not familiar with those cuddling positions? Neither am I, but let's make them up! Take inspiration from yoga and dance and the kama sutra- people can do way more creative things with their bodies than most of us take advantage of while cuddling. 
+6: Scoot!!
+Zip zip! Vroom vroom! I dare you to go for a ride on one of these spunky red Vespa-type things and not emerge with a silly smile on your face. No motorcycle license required. 
+8: Whale boating
+HEAVE! Your choice whether you see this HEAVE! as a celebration of nostalgic masculinity HEAVE! during a time when peoples' strength and daring HEAVE! determined whether they emerged from the seas or HEAVE! not, or whether this is a celebration of HEAVE! our world's increasing civility, a waning of HEAVE! violence, an increased appreciation of nature, and HEAVE! reclaiming old practices as new social pursuits. HEAVE! Either way, we'll spend some great time HEAVE! on the water and getting in a workout. HEAVE!
+6: A single drink at a ridiculously fancy bar
+Expensive dates feel weird. But feeling fancy can be fun! Get the best of all worlds by having a single drink at a ridiculously fancy bar, and nursing it for a long, long time while savoring some people watching, or pretending to be billionaires. 
+6: Privately owned public spaces
+Many of SF's tallest buildings have public areas in them, and oftentimes at or near the very top! It's the best of many worlds: we get the feeling that we're practicing our ninja skills while still being totally legal, a great view, and frequently, we'll get the whole place to ourselves. 
+8: Sneaking into places you're not technically allowed...
+Details can be found at REDACTED
+5: Walk along the waterfront
+Not much to this one: I love being by the water. I love holding your hand. I love walking in places that stimulate introspection, where the setting itself encourages emotional depth and vulnerability, where the consistency of the waves washing in allows us to savor the inconsistency of the journeys we took to get here, where... ok, maybe there is a bit more to this one. 
+5: Wave organ
+Some tribe of giants tried to recreate a Greek temple in the middle of the Bay, it got swallowed by the sea, Atlantis style, but the top of it has re-emerged in recent years and we built a land bridge to reach it. Oh, and there's an organ there. Played by the waves themselves. At least one part of this is half-true. What's undeniably true is that this is my favorite places IN the Bay. 
+4: Viewpoint at the top of the de Young
+It's an incredible, glass-walled 360 panorama of the whole city, from a perspective that few other vantage points offer. It's a peaceful room in a super-modern style that manages to feel very comfortable and welcoming. Plus we get to talk about architecture, earthquakes, statues, dissonance, weathering, and the effects of crowds, while enjoying this totally free viewpoint!
+7: Blues dancing
+It's a style of movement designed around connecting with your partner, moving slowly, and just feeling some incredible music. I know just enough to lead you in a fun night of dancing after the intro class they offer before each session!
+8: Hip hop class
+There are some incredible hip hop classes in the city. Let's go learn how to bust a move, while getting in a great workout and having an awesome time moving our bodies!
+4: Picnic at the alice marble tennis courts
+Theoretically, they're tennis courts. That get reliably too windy to play tennis on. That are at the top of one of the most scenic hills in SF, literally surrounded by Lombard Street, the cable cars, views to Alcatraz and the Golden Gate Bridge, and a park. Realistically, they're an amazingly reliable and peaceful picnic area. 
+4: Ride the cable cars
+Appreciate the brilliant engineering, allow yourself to time travel back to the earliest days of SF, put yourself in the mindset of a tourist, or just enjoy the ride. They run late into the night, well past when all the tourists clear out :)
+6: Thrift Store 
 thrift store with $15, only buying things for the other person. then you have to wear that to dinner. 
 sit on a street corner and give a compliment to everyone who passes. 
 create an algorithm that will lead you through the city randomly. 
@@ -168,9 +192,15 @@ make your own candles!
 try your hand at pottery
 anything at that intercultural transcendental center phillip ventura went to. buddhist chanting, cathartic meditation. it's something like the iscc. 
 ride a train all night. 
+spell out something with your GPS tracks
+make all decisions with the flip of a coin (maybe just the navigational decisions?)
+go through an entire show together that neither of you has watched, but is a classic (The Godfather?). read all the synopses in one night. 
+walk around one of the local university campuses. 
 
 
-
+Relatively fertile and unexplroed territory:
+bike rides
+Scoot
 
 
 
