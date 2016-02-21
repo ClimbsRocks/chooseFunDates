@@ -1,6 +1,10 @@
 $(function() {
 
-
+  $('.submit').on('click', function() {
+    var energyLevel = $('#energyLevel').val();
+    console.log('dateIdeas:',dateIdeas);
+    $('#dateName').text('picking a date for energyLevel ' + energyLevel)
+  });
 
   // updates the text box with the value from the slider
   $('input').filter( function(){return this.type == 'range' } ).each(function(){  
