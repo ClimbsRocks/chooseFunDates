@@ -162,34 +162,62 @@ What better way to test our animal magnetism than to dress ourselves up as a gia
 5: Art walks
 They seem to happen every week in the Bay Area. Galleries stay open late, people wander through, pondering art as an excuse to drink way more heavily than they otherwise would on a weeknight. Whether you're into art or drinking, this is an event for you!
 6: Gallery hopping
-Take on a different persons' persona each time (art student, drunk person, blind person, etc.)
-any of the conservatory of flowers or botanical gardens or such ilk. 
-rental paddle boats!! competitively. create a strava segment from it. 
-chocolate crawl. 
-create a pot of melted chocolate. dip things in it. 
-learn new massages, and practice them on each other. 
-can you massage each other at the same time? foot/leg massages, perhaps? or, even more inventive positions?
-contact improv. at an official dance, or alone. 
-google street view or google earth of each others' hometowns. 
-dumpling making night! form them into as creative a shape as you can imagine
-smoothie making night! 'Smoothie pops'. why pops? toss the smoothies into the freezer in relatively small containers, and then enjoy them throughout the whole next week, or during that day's adventure!
-dim sum- order everything that comes around that you don't remember eating before. 
-dim sum picnic!
-sushi- order everything that comes around that you don't remember eating before. 
-read to each other
-marshmallow castles. build castles. with marshmallows. 
-add everything to guacamole. buy large amounts of guac. make mini batches of it by mixing in random ingredients. see what wins. 
-morning dance party!
-morning ride to hawk hill
-morning ride to Muir Beach
-Morning ride/walk to sunrise on top of twin peaks (ok, i'll admit it now- i'd actually just hijack that ride to Sutro Heights or Mt. Davidson)
-go to one of the public workout things. find something to do on every machine. ideally something that's not the obvious thing. 
-do the lap of the workout stations in GGP by the polo field!
-lawn bowling in GGP. 
-practice casting in GGP. 
-archery in GGP. 
-walk up one of the many hills around and enjoy some peace in nature at the top. ideally with a hammock. 
-set up a tent in a park at night somewhere. ideally on top of a hill. with a board game. and a bottle of wine. 
+Galleries are fun. Using dark magic to slip inside peoples' minds is fun. Put the two together by putting on a different person's perspective for each new gallery we go to!
+6: Flowers & Nature & Gardens
+SF has no shortage of officially curated Nature. Conservatory of Flowers. Japanese Tea Garden. The Botanical Garden. Who needs to leave the city to find the outdoors when they've put so much effort into bringing it to us. Sarcasm aside, these are much better places to lounge around than a dirty street corner. 
+8: Rental paddle boats!! 
+Rental paddle boats are silly. Crushing the competition and destroying PRs is not. Let's rent a paddle boat, and once we're done monkeying around, race around the lake in circles, make a Strava segment from it, and collapse into victory beers at the end as exhausted as Olympic rowers. 
+4: Chocolate crawl
+My momma loves chocolate. I mediocre chocolate. I like buying chocolate for my momma. Let's go on a tour to find the best chocolate around!
+3: Create a pot of melted chocolate
+Dip things in it. 
+4: Learn new massages
+The best way to learn something is by doing. Trust me, I'm a professional educator. For our own sake, we should practice new massage techniques on each other. 
+4: Massaging each other at the same time:
+Every discipline has the beginner technique that everyone thinks they can do. Bouldering has alligator holds, for example. But most disciplines look dramatically different once you start to get good at them. Bouldering has whiskey drinking, for example. Let's practice advanced massaging by massaging each other at the same time. What does this entail? I have no idea, I'm still stuck pondering why people are trying to climb on alligators. 
+7: Contact improv
+Contact improv is my kind of dance: the only rule is that at least one part of your bodies must remain touching at all times. The rest is totally made up. Where was this back in middle school?! Let's do some contact improv, either at the weekly wednesday jams, or just making stuff up on our own!
+2: Hometown tours:
+I think it's cool to see where you grew up. And it's cathartic to show you where I got stuffed into a dumpster after school every day. Err, I mean, why I learned to run really fast and the trails we chose. Thanks to the magic of Google Earth and Google Street View, we can give each other a hometown tour while never having to leave our cuddly couch. 
+3: Dumpling making night!
+Make dumping mix. Buy dumpling shells. Make contemporary art putting the two together in creative ways. Eat any of our creations that aren't museum-worthy. 
+3: Smoothie making night 
+'Smoothie pops'. Why pops? Toss the smoothies into the freezer in relatively small containers, and then enjoy them throughout the whole next week, or during that day's adventure! Try all combinations of rotting fruit and kale juice you can think of until you find something even a hipster wouldn't sip. 
+4: Dim sum 
+I still remember eating my first chicken foot from nearly a decade ago. Let's see if we can go make any other lifelong memories by ordering anything on the menu we don't recall eating before. For the rest of the afternoon, check out the date ideas under energyLevel 1: food coma. 
+5: Dim sum picnic
+There's something about dim sum that shouts beach and picnic. Let's put an end to the shouting. 
+5: Sushi
+Order everything that comes around that you don't remember eating before. For me this is everything because I have a short sushi memory. Mmmmmmmm :)
+1: Read to each other
+Don't knock it 'til you try it. 
+3: Marshmallow castles. 
+Build castles. With marshmallows. 
+3: Guacamole  of everything 
+Guacamole is scientifically proven to be goddess Athena's favorite food on Thursdays. Let's see if we can make it her favorite food every day of the week by changing it up. Buy ingredients. Add to a small scoop of guacamole. See if chocolate or ginger or bacon or salmon or beef jerky or ice cream make guacamole better. Appease Athena. 
+10: Morning dance party
+Why stay up late to dance the night away only to feel awful and hungover the next day, when you can wake up early to dance the morning away and feel fantastic all day aftewards? The only drugs allowed are coffee and brightly colored pants. 
+9: Morning bike ride up Hawk Hill
+I've poured paragraphs of words onto the golden gate as we race a sunrise to the top of this hill. To get a proper description of this ride you'll have to join me one of these mornings. Not sure you'll make it? Don't worry, these rides always start with drugs (coffee!) and tasty tasty snacks (donuts!). 
+10: Morning ride to Muir Beach
+This stretch of road convinced me to move out here back in high school. With an early start, we can still make it back in time for work. And you will have gotten to start your day with something most people only get to dream of. 
+7: Morning ride/walk to sunrise on top of twin peaks 
+Ok, I'll admit it now- I'd actually just hijack this ride to Sutro Heights or Mt. Davidson. Right nearby, and much more interesting sunrise vistas. 
+10: Go to one of the public workout areas
+SF has decided that the best way to slim everyone down is to scatter free workout equipment throughout the city. Let's put it to use! We'll use every machine, ideally none of them in an obvious way. Sweat + creativity + hugs + food afterwards puts this date high on my yet-to-do list!
+10: GG Park workout stations
+There's a circuit of interesting exercise equipment scattered around the polo field in Golden Gate Park. Which means we get to combine exploring, nature, and creative workouts all in one! I've wanted to do this circuit for years. Care to join me on it?
+7: Lawn bowling in GGP
+Just as every society has invented the dragon, it seems every society has invented various forms of bocce ball. Come try out this arcing and fancy version with a free intro class at the Lawn Bowling Club in GGP!
+7: Practice fishing casting in GGP
+I generally prefer hunting for fish in the supermarket, or with a stick of dynamite, but if you prefer the old-fashioned way, there's a series of ponds in the middle of the park designed exclusively to practice your casting in. I prefer to use them for riding figure 8's on my bike.
+9: Archery in GGP 
+There's a free archery range in GGP. Time to call up your friend the Green Hornet (did I successfully make a pop culture reference there?!) and practice drawing with pointy arrows. 
+7: Hill walk
+I love going up hills. It might be a sickness of mine. Sadly, it doesn't appear to be easily contagious, because the top of most hills is beautiful and empty. Let's grab a hammock, and use all that walking as an excuse to sit on top for a while!
+4: Set up a tent
+Inside we can have board games and a bottle of wine and headlamps and adventure stories and hear bear noises and be protected from 80 mph gale-force political bluster. All from the comfort of a quiet park, or one of our living rooms. 
+
 make pizzas together! except you you're exclusively making one for the other person, you don't get to eat any of your own. whether you choose to make it tasty or "adventurous" is up to you!
 Look up family trees together online (not sure if this is possible. if not, just tell tales of your ancestors. believability is not required in this case.)
 write a poem together, alternating lines, then alternating stanzas. you get no more than 10 seconds per line, or 30 seconds per stanza. 
@@ -226,7 +254,8 @@ ride a train all night.
 spell out something with your GPS tracks
 make all decisions with the flip of a coin (maybe just the navigational decisions?)
 go through an entire show together that neither of you has watched, but is a classic (The Godfather?). read all the synopses in one night. 
-walk around one of the local university campuses. 
+walk around one of the local university campuses.
+fly a kite! 
 
 
 Relatively fertile and unexplroed territory:
