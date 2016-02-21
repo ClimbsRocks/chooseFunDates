@@ -99,39 +99,70 @@ There are some incredible hip hop classes in the city. Let's go learn how to bus
 Theoretically, they're tennis courts. That get reliably too windy to play tennis on. That are at the top of one of the most scenic hills in SF, literally surrounded by Lombard Street, the cable cars, views to Alcatraz and the Golden Gate Bridge, and a park. Realistically, they're an amazingly reliable and peaceful picnic area. 
 4: Ride the cable cars
 Appreciate the brilliant engineering, allow yourself to time travel back to the earliest days of SF, put yourself in the mindset of a tourist, or just enjoy the ride. They run late into the night, well past when all the tourists clear out :)
-6: Thrift Store 
-thrift store with $15, only buying things for the other person. then you have to wear that to dinner. 
-sit on a street corner and give a compliment to everyone who passes. 
-create an algorithm that will lead you through the city randomly. 
-musee mecanique.
-exploratorium after dark. 
-any of the climbing movie events. 
-super divey whiskey bar. 
-dance floor at the Top of the Mark. 
-walking labyrinths. 
-drop into a house showing playing the role of a different couple.
-go to a home improvement or craft store. buy $14 worth of supplies each. do not coordinate. build things. 
-The Ribbonerie. 
-magazine store. 
-tandem bike ride
-ride the elevators in tall hotels. 
-climb trees. 
-all the urban hikes. 
-write notes to your grandmothers. 
-visit ridiculous museums neither of you imagined existed (american bookbinders' museum, anybody?!)
-park hopping. find all the tiny parks. do something ridiculous in each one. 
-explore all the community gardens. 
-go through all the alleyways. 
-cook dinner, but only with the ingredients that you two (not coordinating) picked out independently. 
-top chef challenge- pick an ingredient, and make a dish around it!
-create new fusion dishes (middle-eastern burrito, hamburger pho, anyone?)
-Stand at a vista point. imagine yourselves somewhere else (grand canyon). describe what it's like to be there. 
-rent a car and go stargazing somewhere just outside of the city. there'll probably be no traffic by the time you leave and come back. 
-rent an airbnb for a night. 
-kayaking
-stand up paddle boarding
-art walks!
-gallery hopping. take on a different persons' persona each time (art student, drunk person, blind person, etc.)
+6: Thrift store $15 for each other
+Grab $15. It's a shallow excuse to go play and flirt in all the many stimuli a thrift store offers. The only constraints are that we can only spend that $15 on each other, and whatever we buy the other person has to wear for the rest of the night. If I finally find that ideal cast-iron skillet, we might find that kitchenware is the new style this season...
+5: Sit on a bench and give a compliment to everyone who passes
+This is far less creepy to do as a couple than to do alone. Unrelatedly, let's give a wide berth to the intersection of Duboce and Sanchez. It's a great excuse to practice finding things to appreciate about people. 
+7: Create an algorithm that will lead you through the city randomly
+Your choice whether the algorithm development, or following it's instructions, is the date part :)
+6: Musee Mecanique
+Yes, it's by Pier 39. Yes, it's on nearly every "56 Fun Dates To Take Down the Coffee Industry By Never Going To A Gosh-Damned CoffeeShop On A Date EVER AGAIN" list. Yes, it's incredibly fun. Yes, it's incredibly cheap. Yes, I will totally kick your butt at having my palm read. 
+7: Exploratorium after dark
+Science + booze + no kids around + experiments + being on a pier right on the water = ... I never did pay enough attention in chemistry class to figure out how those elements will combine. 
+5: Any of the climbing movie events
+Advertising is super effective. No, I don't know this from working on the data side of the ad industry for years measuring the effectiveness of ads. I know this from my friend Pete. Climbing movies are basically the best advertising that I've found yet for going climbing. Let's top up our stoke!
+5: Super divey whiskey bar
+Super pretentious whiskey selection. Graffiti on the walls. Bartenders that can respond to requests along the lines of "I like this, but could you find something with a bit more castle dungeon, and a hint of hippogriff feather?". Sticky seats. It's a wonderful study in contrasts. 
+7: Dance floor at the Top of the Mark
+Fantastic martinis. Great views out over the city, particularly for sunset. Live band. Dance floor. No risk of being overrun by hipsters who wouldn't be caught dead in a place as old-timey formal as this. 
+6: Walking labyrinths
+There are several scattered throughout our city. Each one placed to allow quite a journey in their 20-foot diameter. We can meet in the middle and cuddle, make eyes at each other as we brush past on criss-crossing paths, or just each enjoy our own time and emerge from the other end as peacefully as if coming out from meditation or yoga, in a beautiful setting. 
+7: Drop into a house showing playing the role of a different couple
+Ideally without telling each other anything about the roles that each of us picked. 
+8: Gettin' crafty with it:
+Go to a home improvement or craft store. Buy $14 worth of supplies each. Do not coordinate. Build things. 
+6: The Ribbonerie
+It's an entire store dedicated to ribbons. I smell a drug front. Let's go. 
+4: Magazine store
+It's crazy to find all the niches that exist in this world. And really fun to find the ones that you're into that I didn't know about yet. Toss in the chance of finding some good reading material, and we're all set!
+8: Tandem bike ride
+Because nothing says romantic like being clipped into a metal pole together, hurtling through crowds and traffic at 20 mph, while one of us gets intimately familiar with the others' hips. I'm so excited!
+5: Ride the elevators in tall hotels
+I never thought I'd hear myself saying this, but let's hope the glass ceiling doesn't break...
+6: Climb trees
+Sit in trees. Talk in trees. Cuddle in trees. Make mountain lion noises at unsuspecting passers-by from trees. Try to drop leaves into coffee cups from trees. Find new neighborhoods to climb trees in. Sit in trees. Cuddle in trees...
+8: All the urban hikes
+If you want to walk, I have no shortage of scenery for us to walk through. Just say the word and we'll zip through fantastical lands contained within our very own city. And get in enough movement to enjoy some great food afterwards. 
+1: Write notes to our grandmothers
+No pithy description here. I just want to talk to my grandma more. 
+7: Visit ridiculous museums neither of us imagined existed
+SF has a museum for everything, including the American Bookbinder's Association. Let's go seek out some of the more unexpected museums around and see what worlds existed we never would have imagined!
+7: Park hopping 
+Find all the tiny parks. Do something ridiculous in each one (take a swig of wine, leave a flower, climb a tree, do a yoga pose, talk through what a future could look like one year at a time, imagine being an archaeologist from the future back to visit this area after the Earth has been towed further out into space by giant tractor beams 4.8 billion years form now...).
+5: Explore all the community gardens
+Heartfelt moment here. These are some beautiful spaces taken care of by dedicated neighbors, that are open for all of us to appreciate, and typically well off the beaten path. It's inspiring to see the care people devote to these gardens. Let's go savor these strikingly peaceful places. 
+7: Go through all the alleyways
+SF has some cool alleyways, from the graffiti'd tunnels of the Mission and SoMa, to the steep half-blocks that turn into steps in Nob Hill. Different adventures to be had in each neighborhood, from sanguine to spicy. And good practice for Melbourne :)
+4: Cook half-planned dinner
+Each of us picks out half the ingredients. Neither of us tells the other what we picked up until we arrive in the kitchen. Both of us figure out how to make something from this. 
+4: Top chef challenge
+Pick an ingredient, and make a meal around it! 
+5: Create new fusion dishes 
+Middle-eastern burrito, or hamburger pho, anyone?
+6: Stationary travel
+Stand at a vista point. Imagine ourselves somewhere totally different, like the Grand Canyone. Describe what it's like to be there, and transport each other with our words and imagery to a land thousands of miles (or millions of universes) away. 
+4: Rent a car and go stargazing somewhere just outside of the city
+By that time of the night there's no traffic around. It's surprising how peaceful it is just 5 miles out of the city. This would be particularly great for one of the many meteor showers. 
+6: Rent an airbnb for a night
+Become a visitor in our own city, just to get a taste of someone else's life, and change things up a bit. 
+8: Full-moon kayaking
+I know nothing more than the name suggests. I'm incredibly excited by this idea. 
+9: Stand up paddle boarding
+What better way to test our animal magnetism than to dress ourselves up as a giant seal and float slowly along the water?!
+5: Art walks
+They seem to happen every week in the Bay Area. Galleries stay open late, people wander through, pondering art as an excuse to drink way more heavily than they otherwise would on a weeknight. Whether you're into art or drinking, this is an event for you!
+6: Gallery hopping
+Take on a different persons' persona each time (art student, drunk person, blind person, etc.)
 any of the conservatory of flowers or botanical gardens or such ilk. 
 rental paddle boats!! competitively. create a strava segment from it. 
 chocolate crawl. 
