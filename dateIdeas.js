@@ -52,3 +52,78 @@ var dateIdeas = {
       }],
   10: []
 };
+
+/*
+plant crawl
+tell stories from each others' closets
+dress each other up for a night. 
+dress each other up ridiculously for a night adventuring (climbing, perhaps?!)
+plot a road trip on google maps
+plan an ideal vacation on a budget of 10 days and $1500
+massages
+creative cuddles
+Scoot!!
+bike rides
+whale boating
+a single drink at a ridiculously fancy bar
+privately owned public spaces
+sneaking into places you're not technically allowed...
+walk along the waterfront
+wave organ
+
+viewpoint at the top of the de young (it's free!)
+blues dancing. dancing of all kinds. hip hop classes.
+
+picnic at the alice marble tennis courts
+ride the cable cars. 
+thrift store with $15, only buying things for the other person. then you have to wear that to dinner. 
+sit on a street corner and give a compliment to everyone who passes. 
+create an algorithm that will lead you through the city randomly. 
+musee mecanique.
+exploratorium after dark. 
+any of the climbing movie events. 
+super divey whiskey bar. 
+dance floor at the Top of the Mark. 
+walking labyrinths. 
+drop into a house showing playing the role of a different couple.
+go to a home improvement or craft store. buy $14 worth of supplies each. do not coordinate. build things. 
+The Ribbonerie. 
+magazine store. 
+tandem bike ride
+ride the elevators in tall hotels. 
+climb trees. 
+all the urban hikes. 
+write notes to your grandmothers. 
+visit ridiculous museums neither of you imagined existed (american bookbinders' museum, anybody?!)
+park hopping. find all the tiny parks. do something ridiculous in each one. 
+explore all the community gardens. 
+go through all the alleyways. 
+cook dinner, but only with the ingredients that you two (not coordinating) picked out independently. 
+top chef challenge- pick an ingredient, and make a dish around it!
+create new fusion dishes (middle-eastern burrito, hamburger pho, anyone?)
+Stand at a vista point. imagine yourselves somewhere else (grand canyon). describe what it's like to be there. 
+rent a car and go stargazing somewhere just outside of the city. there'll probably be no traffic by the time you leave and come back. 
+rent an airbnb for a night. 
+kayaking
+stand up paddle boarding
+art walks!
+gallery hopping. take on a different persons' persona each time (art student, drunk person, blind person, etc.)
+any of the conservatory of flowers or botanical gardens or such ilk. 
+rental paddle boats!! competitively. create a strava segment from it. 
+chocolate crawl. 
+create a pot of melted chocolate. dip things in it. 
+learn new massages, and practice them on each other. 
+can you massage each other at the same time? foot/leg massages, perhaps? or, even more inventive positions?
+contact improv. at an official dance, or alone. 
+
+
+
+
+
+
+
+
+
+
+
+*/
