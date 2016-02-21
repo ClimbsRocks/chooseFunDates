@@ -115,7 +115,35 @@ create a pot of melted chocolate. dip things in it.
 learn new massages, and practice them on each other. 
 can you massage each other at the same time? foot/leg massages, perhaps? or, even more inventive positions?
 contact improv. at an official dance, or alone. 
-
+google street view or google earth of each others' hometowns. 
+dumpling making night! form them into as creative a shape as you can imagine
+smoothie making night! 'Smoothie pops'. why pops? toss the smoothies into the freezer in relatively small containers, and then enjoy them throughout the whole next week, or during that day's adventure!
+dim sum- order everything that comes around that you don't remember eating before. 
+dim sum picnic!
+sushi- order everything that comes around that you don't remember eating before. 
+read to each other
+marshmallow castles. build castles. with marshmallows. 
+add everything to guacamole. buy large amounts of guac. make mini batches of it by mixing in random ingredients. see what wins. 
+morning dance party!
+morning ride to hawk hill
+morning ride to Muir Beach
+Morning ride/walk to sunrise on top of twin peaks (ok, i'll admit it now- i'd actually just hijack that ride to Sutro Heights or Mt. Davidson)
+go to one of the public workout things. find something to do on every machine. ideally something that's not the obvious thing. 
+do the lap of the workout stations in GGP by the polo field!
+lawn bowling in GGP. 
+practice casting in GGP. 
+archery in GGP. 
+walk up one of the many hills around and enjoy some peace in nature at the top. ideally with a hammock. 
+set up a tent in a park at night somewhere. ideally on top of a hill. with a board game. and a bottle of wine. 
+make pizzas together! except you you're exclusively making one for the other person, you don't get to eat any of your own. whether you choose to make it tasty or "adventurous" is up to you!
+Look up family trees together online (not sure if this is possible. if not, just tell tales of your ancestors. believability is not required in this case.)
+write a poem together, alternating lines, then alternating stanzas. you get no more than 10 seconds per line, or 30 seconds per stanza. 
+nerd nites!
+mix your own cocktails. 
+spend an entire hour where the only rule is that you must pick two body parts, and those two body parts must be touching the entire time. 
+spend an hour blindfolded. both of you blindfolded, then one of you blindfolded at a time. 
+spend an hour doing something together with ear plugs in, and not talking to each other. laughing is (oddly) discouraged. board games might be a good one. or looking through a book on artwork together. or cooking together. or giving each other massages. 
+make up your own games together!
 
 
 
