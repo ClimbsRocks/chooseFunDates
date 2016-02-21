@@ -18,13 +18,13 @@ var dateIdeas = {
         description: 'Fire. Gentle drumbeat of waves. "The next time the sand shares our weight as the sunset glazes the horizon, I\'d love to wrap your fingers through mine, and see what happens."'
       },
       {name: 'Make up your own constellations',
-        descriptions: 'The ancients aren\'t the only ones capable of seeing fantastic things in the sky. I\'m pretty sure that\'s my younger brother up there wrestling an ice cream cone in a ball pit.'
+        description: 'The ancients aren\'t the only ones capable of seeing fantastic things in the sky. I\'m pretty sure that\'s my younger brother up there wrestling an ice cream cone in a ball pit.'
       }],
   4: [{name: 'Guacamole Tour',
         description: 'Have one person pick up a smorgasboard of their favorite guacamoles. Bonus combinations come from picking up an equally large array of favorite things to dip in guacamole (be careful- carrots are contentious, chocolate-dipped bacon will get you creativity points, and your date\'s toe will quickly establish whether they share your foot fetish or not).'
       },
       {name: 'Remote Museum Tour',
-        description: ''
+        description: 'Museums are a way to travel to fantastical far off lands, visit places that vanished long ago, and explore incomprehensible ways of life. But, in order to visit them, you generally have to travel to fantastical far off lands. Which builds in some odd circular logic. Let\'s avoid that infinite loop by teleporting our eyes to a museum, while we cuddle on the couch together! Google Maps has our back.'
 
       },
       {name: 'Climb El Cap',
