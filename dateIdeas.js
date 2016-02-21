@@ -217,16 +217,23 @@ There's a free archery range in GGP. Time to call up your friend the Green Horne
 I love going up hills. It might be a sickness of mine. Sadly, it doesn't appear to be easily contagious, because the top of most hills is beautiful and empty. Let's grab a hammock, and use all that walking as an excuse to sit on top for a while!
 4: Set up a tent
 Inside we can have board games and a bottle of wine and headlamps and adventure stories and hear bear noises and be protected from 80 mph gale-force political bluster. All from the comfort of a quiet park, or one of our living rooms. 
-
-make pizzas together! except you you're exclusively making one for the other person, you don't get to eat any of your own. whether you choose to make it tasty or "adventurous" is up to you!
-Look up family trees together online (not sure if this is possible. if not, just tell tales of your ancestors. believability is not required in this case.)
-write a poem together, alternating lines, then alternating stanzas. you get no more than 10 seconds per line, or 30 seconds per stanza. 
-nerd nites!
-mix your own cocktails. 
-spend an entire hour where the only rule is that you must pick two body parts, and those two body parts must be touching the entire time. 
-spend an hour blindfolded. both of you blindfolded, then one of you blindfolded at a time. 
-spend an hour doing something together with ear plugs in, and not talking to each other. laughing is (oddly) discouraged. board games might be a good one. or looking through a book on artwork together. or cooking together. or giving each other massages. 
-make up your own games together!
+3: Giving pizzas
+14th century Sicilian monks found the secret to life when they discovered pizza (definitely an accurate creation story for pizza). This makes it really easy to give each other great gifts: just make each other pizza! We'll have a pizza making night with a twist: each of us is not allowed to eat a single bite of the pizza you make- it's exclusively going to the other person. Whether you use this as an excuse to make that thing the other person loves but you abhor (oyster pizza with a lamb ragu), or to go a bit more adventurous in what they're eating for the night, is up to you!
+2: Look up family trees together online 
+I'm not at all sure if this is possible. If not, just tell tales of your ancestors. Believability is not required in this case :)
+2: Write a poem together
+Or, if we're feeling more adventurous, we can freestyle rap together. Each person gets no more than 10 seconds per line, or 30 seconds per stanza. Speed chess meets slam poetry meets date night. There's a good chance this will not end well. 
+6: Nerd nites
+I've never been, but the name alone has had me intrigued for years. 
+3: Mix your own cocktails
+Ever felt like all those fancy cocktails could really just be described as booze mixed with some sassy sassafrass? Well pick out your own ingredients and see if you can one-up those showy bartenders in either creativity, tastiness, showmanship, or cool hairdo. Leave with a renewed appreciation for bartenders, and a whole lot less sassafrass in the herb cabinet. 
+2: I'm touching you
+Spend an hour where the only ruls is that we pick two body parts, and those two body parts must be touching the entire hour. Toe to nose, or fingers to delicious scalp massage are both acceptable, depending on mood. 
+2: Spend an hour blindfolded
+I think it'd be fun to work on a couple variations of this: both people blindfolded at once, then one person seeing and one person blindfolded. I have no hypothesis for what the results of this experiment will be. Which makes me highly intrigued to try it. 
+2: I can't hear you
+Spend an hour doing something together with ear plugs in, and not talking to each other. Laughing is (oddly) discouraged. We can only communicate with eyes and bodies and foot signals and ravens. This is good training for playing cards together and sneakily telling each other about our hands to destroy the other teams. 
+7: Make up our own games together
 
 play music for each other from your music collection. maybe while driving a car. 
 play nothing but music covers for each other for hours at a time. 
