@@ -1,10 +1,12 @@
 $(function() {
 
   // TODO: memoize the results once we've calculated the results for a given energy level
+  var energyLevel;
+  var currentDate; 
 
   $('.submit').on('click', function() {
     // grab the string value from the text box and turn it into an int
-    var energyLevel = parseInt($('#energyLevel').val(), 10);
+    energyLevel = parseInt($('#energyLevel').val(), 10);
 
     var relevantDates = [];
     for(var i = -2; i <=2; i++) {
@@ -20,12 +22,37 @@ $(function() {
     }
 
     var randomDateIndex = Math.round(Math.random() * relevantDates.length);
-    var randomDate = relevantDates[randomDateIndex];
+    currentDate = relevantDates[randomDateIndex];
     $('#dateEnergyLevel').text('picking a date for energyLevel ' + energyLevel)
-    $('#dateName').text(randomDate.name);
-    $('#dateDescription').text(randomDate.description);
+    $('#dateName').text(currentDate.name);
+    $('#dateDescription').text(currentDate.description);
 
+    // sets this date on a hidden node so that we can use that node for copying to the clipboard later
+    $('#hiddenText').text('energyLevel: ' + energyLevel + ', Date:' + currentDate.name +', Description:' + currentDate.description);
   });
+
+  
+    // copy to clipboard:
+    $('.copyToClipBoard').on('click', function() {
+      copyToClipboard('hiddenText');
+    });
+
+    function copyToClipboard(elementId) {
+      // Create a "hidden" input
+      var aux = document.createElement("input");
+      // Assign it the value of the specified element
+      aux.setAttribute("value", document.getElementById(elementId).innerHTML);
+      // Append it to the body
+      document.body.appendChild(aux);
+      console.log(aux);
+      // Highlight its content
+      aux.select();
+      // Copy the highlighted text
+      document.execCommand("copy");
+      // Remove it from the body
+      document.body.removeChild(aux);
+
+    }
 
   // updates the text box with the value from the slider
   $('input').filter( function(){return this.type == 'range' } ).each(function(){  
@@ -44,6 +71,7 @@ $(function() {
       // console.log("ooh, if you're really that energetic, let's bike to a bluff overlooking the ocean and host our own all-night dance party 'til we greet the morning with sun salutations! Or, try picking a value inside the range of 0-10")
       $slider.val($text_box.val());
     });
+
 
   });
 });
