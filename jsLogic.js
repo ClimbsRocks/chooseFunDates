@@ -23,7 +23,7 @@ $(function() {
 
     var randomDateIndex = Math.round(Math.random() * (relevantDates.length - 1));
     currentDate = relevantDates[randomDateIndex];
-    $('#dateEnergyLevel').text('picking a date for energyLevel ' + energyLevel)
+    $('#dateEnergyLevel').text('Picking a date for energyLevel ' + energyLevel)
     $('#dateName').text(currentDate.name);
     $('#dateDescription').text(currentDate.description);
 

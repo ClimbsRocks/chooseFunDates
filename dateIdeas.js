@@ -1,4 +1,5 @@
-var dateIdeas = { '0': 
+var dateIdeas = { 
+  '0': 
    [ { name: 'Cuddling on the Couch',
        description: 'Light a candle on the table and dive under the blanket together. Likelihood of falling asleep mid-cuddle is high.' } ],
   '1': 

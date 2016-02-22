@@ -1,7 +1,9 @@
 var fs = require('fs');
 var dateIdeas = require('./dateIdeasNode.js');
+// it's the same file as dateIdeas, just format it for module.exports = dateObj instead of var dateIdeas = dateObj
 // console.log('dateIdeas:',dateIdeas);
 
+// dateIdeasToParse is just a big blob of text. no extra quote at the start or end. the first line must have energyLevel: dateName
 var rawText = fs.readFileSync('./dateIdeasToParse.txt', 'utf8');
 
 var lines = rawText.split('\n');
@@ -27,4 +29,5 @@ for(var i = 0; i < lines.length; i++) {
   }
 }
 
+// copy/paste the results of this into dateIdeas.js happily it does alright with whitespacing and indentation
 console.log(dateIdeas);
