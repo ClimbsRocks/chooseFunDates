@@ -21,7 +21,7 @@ $(function() {
       }
     }
 
-    var randomDateIndex = Math.round(Math.random() * relevantDates.length);
+    var randomDateIndex = Math.round(Math.random() * (relevantDates.length - 1));
     currentDate = relevantDates[randomDateIndex];
     $('#dateEnergyLevel').text('picking a date for energyLevel ' + energyLevel)
     $('#dateName').text(currentDate.name);
@@ -29,7 +29,7 @@ $(function() {
 
     // sets this date on a hidden node so that we can use that node for copying to the clipboard later
     $('#hiddenText').text('energyLevel: ' + energyLevel + ', Date:' + currentDate.name +', Description:' + currentDate.description);
-  });
+    });
 
   
     // copy to clipboard:
@@ -44,7 +44,6 @@ $(function() {
       aux.setAttribute("value", document.getElementById(elementId).innerHTML);
       // Append it to the body
       document.body.appendChild(aux);
-      console.log(aux);
       // Highlight its content
       aux.select();
       // Copy the highlighted text
