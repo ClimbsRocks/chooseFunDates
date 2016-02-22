@@ -35,12 +35,14 @@ $(function() {
   // copy to clipboard:
   $('.copyToClipBoard').on('click', function() {
 
+    // grab the checked add ons
     var checkedAddOns = [];
     $("input:checkbox:checked").each(function(){
         checkedAddOns.push($(this).val());
     });
 
-    $('#hiddenText').text($('#hiddenText').text() + ', Add-Ons: ' + checkedAddOns.join(', '));
+    // add the add-ons to the hiddenText node that holds the text that will be copied to the clipboard
+    $('#hiddenText').text($('#hiddenText').text() + ' Add-Ons: ' + checkedAddOns.join(', '));
 
     copyToClipboard('hiddenText');
   });
