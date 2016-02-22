@@ -28,30 +28,37 @@ $(function() {
     $('#dateDescription').text(currentDate.description);
 
     // sets this date on a hidden node so that we can use that node for copying to the clipboard later
-    $('#hiddenText').text('energyLevel: ' + energyLevel + ', Date:' + currentDate.name +', Description:' + currentDate.description);
-    });
+    $('#hiddenText').text('Energy Level: ' + energyLevel + ', Date: ' + currentDate.name +', Description: ' + currentDate.description);
+  });
 
   
-    // copy to clipboard:
-    $('.copyToClipBoard').on('click', function() {
-      copyToClipboard('hiddenText');
+  // copy to clipboard:
+  $('.copyToClipBoard').on('click', function() {
+
+    var checkedAddOns = [];
+    $("input:checkbox:checked").each(function(){
+        checkedAddOns.push($(this).val());
     });
 
-    function copyToClipboard(elementId) {
-      // Create a "hidden" input
-      var aux = document.createElement("input");
-      // Assign it the value of the specified element
-      aux.setAttribute("value", document.getElementById(elementId).innerHTML);
-      // Append it to the body
-      document.body.appendChild(aux);
-      // Highlight its content
-      aux.select();
-      // Copy the highlighted text
-      document.execCommand("copy");
-      // Remove it from the body
-      document.body.removeChild(aux);
+    $('#hiddenText').text($('#hiddenText').text() + ', Add-Ons: ' + checkedAddOns.join(', '));
 
-    }
+    copyToClipboard('hiddenText');
+  });
+
+  function copyToClipboard(elementId) {
+    // Create a "hidden" input
+    var aux = document.createElement("input");
+    // Assign it the value of the specified element
+    aux.setAttribute("value", document.getElementById(elementId).innerHTML);
+    // Append it to the body
+    document.body.appendChild(aux);
+    // Highlight its content
+    aux.select();
+    // Copy the highlighted text
+    document.execCommand("copy");
+    // Remove it from the body
+    document.body.removeChild(aux);
+  }
 
   // updates the text box with the value from the slider
   $('input').filter( function(){return this.type == 'range' } ).each(function(){  
@@ -71,6 +78,6 @@ $(function() {
       $slider.val($text_box.val());
     });
 
-
   });
+
 });
