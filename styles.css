@@ -33,6 +33,8 @@ header {
     width: 270px;
     padding: 5px 15px;
     float: left;
+    margin-top: .1em;
+    margin-bottom: .1em;
 }
 footer {
     clear: both;
