@@ -23,7 +23,7 @@ var dateIdeas = {
      { name: 'Write a poem together',
        description: 'Or, if we\'re feeling more adventurous, we can freestyle rap together. Each person gets no more than 10 seconds per line, or 30 seconds per stanza. Speed chess meets slam poetry meets date night. There\'s a good chance this will not end well. ' },
      { name: 'I\'m touching you',
-       description: 'Spend an hour where the only ruls is that we pick two body parts, and those two body parts must be touching the entire hour. Toe to nose, or fingers to delicious scalp massage are both acceptable, depending on mood. ' },
+       description: 'Spend an hour where the only rule is that we pick two body parts, and those two body parts must be touching the entire hour. Toe to nose, or fingers to delicious scalp massage are both acceptable, depending on mood. ' },
      { name: 'Spend an hour blindfolded',
        description: 'I think it\'d be fun to work on a couple variations of this: both people blindfolded at once, then one person seeing and one person blindfolded. I have no hypothesis for what the results of this experiment will be. Which makes me highly intrigued to try it. ' },
      { name: 'I can\'t hear you',
